@@ -1,5 +1,5 @@
 # Predicting Employee Productivity Using Tree Models
-  Build a classification tree to evaluate features which can predict employee productivity
+ Using a classification tree to evaluate features which can predict employee productivity
 
 
 ![alt text](image-1.png)
